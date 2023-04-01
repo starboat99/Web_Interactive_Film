@@ -1,2 +1,1 @@
-# Web_Interactive_Film
-Web_Game_html5
+This is game. Thirst open file is Vibor.
